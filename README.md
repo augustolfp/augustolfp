@@ -15,6 +15,7 @@ Alguns dos meus hobbies são:
 - Musculação e corrida :running_shirt_with_sash:
 
 :hammer_and_wrench: **Confira** meu projeto pessoal [No-nonsense Calories Tracker](https://github.com/augustolfp/calories-tracker-frontend-v2)!
+<br/>
 
 # Habilidades:
 
@@ -23,7 +24,6 @@ Alguns dos meus hobbies são:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
 
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' /> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' />
-
 <br/>
 
 ### **Front-end:**
@@ -31,7 +31,6 @@ Alguns dos meus hobbies são:
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' /> <img src='https://img.shields.io/badge/react%20QUERY-EF4444?style=for-the-badge&logo=react%20table&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
 
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' /> <img src='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' />
-
 <br/>
 
 ### **Back-end:**
@@ -39,25 +38,21 @@ Alguns dos meus hobbies são:
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/> <img src='https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white' />
 
 <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' /> <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' /> <img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
-
 <br/>
 
 ### **Database:**
 
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' /> <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-
 <br/>
 
 ### **Design:**
 
 <img src='https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white' /> <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
-
 <br/>
 
 ### **Testes:**
 
 <img src='https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white' /> <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' />
-
 <br/>
 
 ### **Ferramentas:**
@@ -71,13 +66,11 @@ Alguns dos meus hobbies são:
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' /> <img src='	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> <img src='https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white' /> <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
 
 <img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'/> <img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' />
-
 <br/>
 
 # Contato:
 
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /> ](augustolfp@gmail.com) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/augustolopesfalcao/)
-
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /> ](mailto:augustolfp@gmail.com) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/augustolopesfalcao/)
 <br/>
 
 # Status:
