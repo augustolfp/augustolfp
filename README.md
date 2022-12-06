@@ -14,7 +14,7 @@ Alguns dos meus hobbies são:
 - Impressão 3D :fire_extinguisher:
 - Musculação e corrida :running_shirt_with_sash:
 
-:hammer_and_wrench: **Confira** meu projeto pessoal [No-nonsense Calories Tracker](https://github.com/augustolfp/calories-tracker-frontend-v2)!
+:hammer_and_wrench: **Confira** meu projeto pessoal [Dietinha: Contador de calorias](https://github.com/augustolfp/calories-tracker-frontend-v2)!
 <br/>
 
 # Habilidades:
