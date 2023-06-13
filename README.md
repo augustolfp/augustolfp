@@ -6,15 +6,18 @@
 
 **Seja bem vindo(a) ao meu GitHub!** Sou um desenvolvedor web brasileiro!
 
-Envolvido com o mundo da tecnologia desde a infância, e após diversos projetos envolvendo o mundo da programação, resolvi migrar da engenharia mecânica para o desenvolvimento de software :sunglasses:
+Sou graduado em Engenharia mecânica, e estive envolvido com diversos projetos (pessoais e acadêmicos) envolvendo Engenharia de Software nos últimos 10 anos. No início de 2022 resolvi migrar definitivamente para a área de desenvolvimento Web :sunglasses:
 
 Alguns dos meus hobbies são:
 
-- Literatura :book:
-- Impressão 3D :fire_extinguisher:
-- Musculação e corrida :running_shirt_with_sash:
+-   Literatura :book:
+-   Projetos de eletrônica embarcada :electric_plug:
+-   Impressão 3D :fire_extinguisher:
+-   Musculação e corrida :running_shirt_with_sash:
 
-:hammer_and_wrench: **Confira** meu projeto pessoal [Dietinha: Contador de calorias](https://github.com/augustolfp/calories-tracker-frontend-v2)!
+:hammer_and_wrench: **Confira** meu projeto pessoal [Dietinha: Contador de calorias](https://github.com/augustolfp/calories-tracker-frontend-v2)! Venho utilizando meu aplicativo diariamente, pelos últimos 6 meses, para o monitoramento da minha dieta.
+
+Atualmente estou construindo um novo aplicativo de contar calorias, com o intuito de integrar boas práticas de Arquitetura e Design de Software!
 <br/>
 
 # Habilidades:
@@ -28,7 +31,7 @@ Alguns dos meus hobbies são:
 
 ### **Front-end:**
 
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' /> <img src='https://img.shields.io/badge/react%20QUERY-EF4444?style=for-the-badge&logo=react%20table&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' /> <img src='https://img.shields.io/badge/react%20QUERY-EF4444?style=for-the-badge&logo=react%20table&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' /> <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
 
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' /> <img src='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' />
 <br/>
