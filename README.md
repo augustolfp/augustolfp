@@ -75,9 +75,3 @@ Atualmente estou construindo um novo aplicativo de contar calorias, com o intuit
 
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /> ](mailto:augustolfp@gmail.com) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/augustolopesfalcao/)
 <br/>
-
-# Status:
-
-<p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=augustolfp' />
-</p>
