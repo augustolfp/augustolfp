@@ -2,11 +2,13 @@
 
 # Sobre mim:
 
-**`Full stack Developer`**
+**`Web Developer`**
 
 **Seja bem vindo(a) ao meu GitHub!** Sou um desenvolvedor web brasileiro!
 
 Sou graduado em Engenharia mecânica, e estive envolvido com diversos projetos (pessoais e acadêmicos) envolvendo Engenharia de Software nos últimos 10 anos. No início de 2022 resolvi migrar definitivamente para a área de desenvolvimento Web :sunglasses:
+
+<br/>
 
 Alguns dos meus hobbies são:
 
@@ -15,15 +17,25 @@ Alguns dos meus hobbies são:
 -   Impressão 3D :fire_extinguisher:
 -   Musculação e corrida :running_shirt_with_sash:
 
+<br/>
+
 :hammer_and_wrench: Atualmente estou trabalhando na **segunda versão** do meu projeto favorito, o Dietinha, contador de calorias!
 
 -   [Backend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_backend)
 -   [Frontend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_frontend)
 
-A **primeira versão** continua disponível e pode ser conferida nos links abaixo:
+<br/>
+
+A **primeira versão** continua disponível (e é utilizada diariamente) e pode ser conferida nos links a seguir:
 
 -   [Backend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-backend)
 -   [Frontend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-frontend-v2)
+
+<br/>
+
+Ambas as versões do aplicativo utilizam os dados tratados da **Tabela TACO - UNICAMP**. O tratamento e adaptação dos dados pode ser conferida no repositório a seguir:
+
+-   [Adaptação da **Tabela TACO**](https://github.com/augustolfp/Taco-table-simplifier)
 
 <br/>
 
