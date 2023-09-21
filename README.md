@@ -15,9 +15,16 @@ Alguns dos meus hobbies são:
 -   Impressão 3D :fire_extinguisher:
 -   Musculação e corrida :running_shirt_with_sash:
 
-:hammer_and_wrench: **Confira** meu projeto pessoal [Dietinha: Contador de calorias](https://github.com/augustolfp/calories-tracker-frontend-v2)! Venho utilizando meu aplicativo diariamente, pelos últimos 6 meses, para o monitoramento da minha dieta.
+:hammer_and_wrench: Atualmente estou trabalhando na **segunda versão** do meu projeto favorito, o Dietinha, contador de calorias!
 
-Atualmente estou construindo um novo aplicativo de contar calorias, com o intuito de integrar boas práticas de Arquitetura e Design de Software!
+-   [Backend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_backend)
+-   [Frontend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_frontend)
+
+A **primeira versão** continua disponível e pode ser conferida nos links abaixo:
+
+-   [Backend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-backend)
+-   [Frontend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-frontend-v2)
+
 <br/>
 
 # Habilidades:
