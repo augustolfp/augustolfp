@@ -6,8 +6,6 @@
 
 **Seja bem vindo(a) ao meu GitHub!** Sou um desenvolvedor web brasileiro!
 
-Sou graduado em Engenharia mecânica, e estive envolvido com diversos projetos (pessoais e acadêmicos) envolvendo Engenharia de Software nos últimos 10 anos. No início de 2022 resolvi migrar definitivamente para a área de desenvolvimento Web :sunglasses:
-
 <br/>
 
 Alguns dos meus hobbies são:
@@ -19,75 +17,7 @@ Alguns dos meus hobbies são:
 
 <br/>
 
-:hammer_and_wrench: Atualmente estou trabalhando na **segunda versão** do meu projeto favorito, o Dietinha, contador de calorias!
-
--   [Backend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_backend)
--   [Frontend do **Novo Dietinha**](https://github.com/augustolfp/dietinha_frontend)
-
-<br/>
-
-A **primeira versão** continua disponível (e é utilizada diariamente) e pode ser conferida nos links a seguir:
-
--   [Backend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-backend)
--   [Frontend do **Antigo Dietinha**](https://github.com/augustolfp/calories-tracker-frontend-v2)
-
-<br/>
-
-Ambas as versões do aplicativo utilizam os dados tratados da **Tabela TACO - UNICAMP**. O tratamento e adaptação dos dados pode ser conferida no repositório a seguir:
-
--   [Adaptação da **Tabela TACO**](https://github.com/augustolfp/Taco-table-simplifier)
-
-<br/>
-
-# Habilidades:
-
-### **Linguagens:**
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-
-<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' /> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' /> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
-<br/>
-
-### **Front-end:**
-
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' /> <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E' /> <img src='https://img.shields.io/badge/react%20QUERY-EF4444?style=for-the-badge&logo=react%20table&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' /> <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
-
-<img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' /> <img src='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' /> <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-<br/>
-
-### **Back-end:**
-
-<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/> <img src='https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white' />
-
-<img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' /> <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' /> <img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
-<br/>
-
-### **Database:**
-
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' /> <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-<br/>
-
-### **Design:**
-
-<img src='https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white' /> <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
-<br/>
-
-### **Testes:**
-
-<img src='https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white' /> <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' />
-<br/>
-
-### **Ferramentas:**
-
-<img src='https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' /> <img src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' />
-
-<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' /> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /> <img src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white'>
-
-<img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'/> <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' /> <img src='	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' /> <img src='https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white' />
-
-<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' /> <img src='	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> <img src='https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white' /> <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
-
-<br/>
+Jogue uma partidinha do <a href="https://gutguessr-frontend.vercel.app">Gutguessr</a>!
 
 # Contato:
 
